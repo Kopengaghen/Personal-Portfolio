@@ -14,7 +14,6 @@ export const About = () => {
 				+1 514-123-45678
 				trofimciuc.m@gmail.com
 			</p>
-
 		</div>
 	);
 }
