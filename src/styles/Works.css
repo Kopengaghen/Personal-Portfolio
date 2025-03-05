@@ -1,8 +1,14 @@
 li {
     text-align: center;
     font-size: 2rem;
+    list-style-type: none;
 }
 
 li > a {
     text-decoration: none;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #0e8117;
 }
